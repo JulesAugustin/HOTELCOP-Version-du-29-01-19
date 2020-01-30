@@ -1,0 +1,21 @@
+.titre{
+    text-align: center;
+    background-color: rgb(209, 192, 149);
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid burlywood;
+   
+    
+}
+.introduction{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 1px solid rgb(209, 192, 149);
+    background-color: cornsilk;
+}
+.card-text1{
+    text-align: justify;
+}
+.card-text7{
+    text-align: justify;
+}
